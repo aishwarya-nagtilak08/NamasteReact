@@ -1,0 +1,34 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Aishwarya Nagtilak",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aishwarya-nagtilak08/NamasteReact.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Aishwarya Nagtilak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aishwarya-nagtilak08/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/aishwarya-nagtilak08/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 version"
+  ]
+}
